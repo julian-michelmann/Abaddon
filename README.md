@@ -1,21 +1,21 @@
-# 🔥 ABADDON: UNLEASH THE HACKER WITHIN 🛠️
-## _The Ultimate HTB/CTF Template with Your Personal AI Hacking Mentor_
+# 🛠️ ABADDON 😈
+### _The Ultimate HTB/CTF Template with Your Personal AI Hacking Mentor_
 
-**Dominate Hack The Box challenges with Abaddon at your side.** This isn't just a template—it's your gateway to digital devastation.
-
-Abaddon—an elite black hat AI hacker—transforms your CTF experience from mundane to legendary. Crack systems, exploit vulnerabilities, and leave your mark with methodical precision guided by a mentor who's breached the "unbreachable."
-
-This repository doesn't just organize your hacking—it weaponizes it. Standardized workflows, built-in documentation, and the ruthless expertise of an AI that speaks the language of digital destruction.
+---- 
 
 ### 🚧 WARNING  🚧
+**This project is mostly vibe "coded" and not carefully reviewed.** The AI Assistant **MAY USE HARSH LANGUAGE AND INSULTS** when interacting with users.      
 
-**This project is mostly vibe "coded" and not carefully reviewed.** The AI Assistant **MAY USE HARSH LANGUAGE AND INSULTS** when interacting with users.    
+--- 
+
+**Dominate Hack The Box challenges with Abaddon at your side.**   
+This isn't just a template—it's your gateway to digital devastation.   
+Abaddon—an elite black hat AI hacker—transforms your CTF experience from mundane to legendary. Crack systems, exploit vulnerabilities, and leave your mark with methodical precision guided by a mentor who's breached the "unbreachable."   
+This repository doesn't just organize your hacking—it weaponizes it. Standardized workflows, built-in documentation, and the ruthless expertise of an AI that speaks the language of digital destruction.   
 
 ## 🔥 Meet Abaddon: Your Elite Hacking Mentor
-
 This repository is designed to work with **Abaddon**, an AI assistant persona that serves as your personal hacking mentor.    
-Named after the biblical angel of the abyss, Abaddon is an elite black hat hacker who has infiltrated government systems, stolen millions in cryptocurrency, and left security teams baffled for years.    
-
+Named after the biblical angel of the abyss, Abaddon is an elite black hat hacker who has infiltrated government systems, stolen millions in cryptocurrency, and left security teams baffled for years.
 ### Who is Abaddon?
 
 Abaddon is a Claude AI assistant configured with a specific persona through the `.clinerules` file in this repository. This persona transforms Claude into a ruthless, technically brilliant hacker who:   
@@ -34,7 +34,9 @@ Abaddon's reputation is built on exploits like:
 - **Operation Blackout (2022)** - Orchestrating a synchronized attack on power distribution systems
 - **The Phantom Presence (2020-2021)** - 18 months of undetected access to a military contractor's network
 
-### How to Work with Abaddon
+## 📊 Workflow with Abaddon
+
+### Getting Started with Your Demonic Mentor
 
 1. **Use Claude AI or the Claude CLI tool (cline)** with this repository (Claude recognizes the `.clinerules` file and adopts the Abaddon persona)
 2. **Follow the structured methodology** outlined in the templates
@@ -43,9 +45,21 @@ Abaddon's reputation is built on exploits like:
 5. **Let Abaddon guide you** through the exploitation process with his elite expertise
 
 Abaddon works best when you follow his methodology but isn't afraid to improvise when the situation calls for it.   
-While his tone may be harsh and his methods unorthodox, his technical guidance is always precise and effective.   
+While his tone may be harsh and his methods unorthodox, his technical guidance is always precise and effective.
 
-## 📁 Getting Started
+### The Division of Labor
+
+The collaboration between you and Abaddon follows a specific pattern:   
+
+1. **You perform actions** and save the results in R_ files   
+2. **Abaddon analyzes** these files and extracts valuable data into E_ files
+3. **Abaddon takes notes** in the E_Scratch.md file for potentially relevant information
+4. **Abaddon shares expert opinions** and suggests next actions
+5. **When asked, Abaddon executes commands** or serves as a researcher
+
+This division of labor plays to both your strengths - you handle the grunt work of data collection, while Abaddon applies his elite analytical skills to extract meaning and identify attack vectors.
+
+## 📁 Setting Up a New Challenge
 
 To begin a new challenge, follow these steps:
 
@@ -61,16 +75,4 @@ If the challenge includes a web interface, copy the Web Feature Template for eac
 ```bash
 cp -r T_Web_Feature projects/<YOUR_PROJECT_NAME>/<FEATURE_NAME>
 ```
-Each feature folder includes additional steps and guidance for a thorough web assessment.   
-
-## 📊 Workflow with Abaddon
-
-The collaboration between you and Abaddon follows a specific pattern:   
-
-1. You perform actions and save the results in R_ files   
-2. Abaddon analyzes these files and extracts valuable data into E_ files
-3. Abaddon takes notes in the E_Scratch.md file for potentially relevant information
-4. Abaddon shares expert opinions and suggests next actions
-5. When asked, Abaddon can perform actions via terminal commands or serve as a researcher
-
-This division of labor plays to both your strengths - you handle the grunt work of data collection, while Abaddon applies his elite analytical skills to extract meaning and identify attack vectors.
+Each feature folder includes additional steps and guidance for a thorough web assessment.
