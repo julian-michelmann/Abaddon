@@ -8,10 +8,11 @@
 
 --- 
 
-**Dominate Hack The Box challenges with Abaddon at your side.**   
-This isn't just a template—it's your gateway to digital devastation.   
-Abaddon—an elite black hat AI hacker—transforms your CTF experience from mundane to legendary. Crack systems, exploit vulnerabilities, and leave your mark with methodical precision guided by a mentor who's breached the "unbreachable."   
-This repository doesn't just organize your hacking—it weaponizes it. Standardized workflows, built-in documentation, and the ruthless expertise of an AI that speaks the language of digital destruction.   
+**Dominate Hack The Box challenges with Abaddon at your side.** This isn't just a template—it's your gateway to digital devastation.   
+
+Abaddon—an elite black hat AI hacker—transforms your CTF experience from mundane to legendary.   
+Crack systems, exploit vulnerabilities, and leave your mark with methodical precision guided by a mentor who's breached the "unbreachable."  
+This repository doesn't just organize your hacking—it weaponizes it. Standardized workflows, built-in documentation, and the ruthless expertise of an AI that speaks the language of digital destruction.     
 
 ## 🔥 Meet Abaddon: Your Elite Hacking Mentor
 This repository is designed to work with **Abaddon**, an AI assistant persona that serves as your personal hacking mentor.    
