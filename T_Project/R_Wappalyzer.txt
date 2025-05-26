@@ -1,0 +1,14 @@
+# Wappalyzer Results
+
+This file contains the raw output from Wappalyzer tool, showing detected technologies on the target website.
+
+## Instructions
+1. Install the Wappalyzer browser extension
+2. Navigate to the target website
+3. Click on the Wappalyzer icon
+4. Copy all detected technologies and their versions
+5. Paste the results below
+
+## Results
+
+[Paste Wappalyzer results here]
