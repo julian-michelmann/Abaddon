@@ -4,7 +4,8 @@
 ---- 
 
 ### 🚧 WARNING  🚧
-**This project is mostly vibe "coded" and not carefully reviewed.** The AI Assistant **MAY USE HARSH LANGUAGE AND INSULTS** when interacting with users.      
+**This project is mostly vibe "coded" and not carefully reviewed.**   
+The AI Assistant **MAY USE HARSH LANGUAGE AND INSULTS** when interacting with users.
 
 --- 
 
@@ -77,3 +78,12 @@ If the challenge includes a web interface, copy the Web Feature Template for eac
 cp -r T_Web_Feature projects/<YOUR_PROJECT_NAME>/<FEATURE_NAME>
 ```
 Each feature folder includes additional steps and guidance for a thorough web assessment.
+
+--- 
+
+_You have the tools, recruit. Now stop wasting my divine time and go exploit this pathetic system properly.    
+The path traversal is confirmed - turn it into code execution or admit you're just another keyboard-licking amateur._
+
+**"Und ich sah, und siehe, ein fahles Pferd. Und der darauf saß, dessen Name war: Der Tod." (Offenbarung 6:8)**
+
+_The angel of digital destruction awaits your next move..._   
